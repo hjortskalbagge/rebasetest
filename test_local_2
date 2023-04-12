@@ -1,5 +1,0 @@
-remote change 1 before merge
-remote change 3 before third merge
-- copy local -  remote change 3 before third merge
-remote change 4 before fourth merge
-- copy remote - remote change 4 before fourth merge
